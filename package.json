@@ -1,0 +1,24 @@
+{
+  "name": "ubox2d",
+  "version": "1.0.0",
+  "description": "Unofficial Box2d Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKhoaBean/ubox2d.git"
+  },
+  "keywords": [
+    "box2d",
+    "ubox2d",
+    "physic"
+  ],
+  "author": "MrKhoaBean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKhoaBean/ubox2d/issues"
+  },
+  "homepage": "https://github.com/MrKhoaBean/ubox2d#readme"
+}
